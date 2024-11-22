@@ -1,0 +1,2 @@
+This assignment involves creating a Python-based data analytics application and implementing a full CI/CD pipeline using tools like Docker, Minikube, Jenkins, and others. 
+The goal is to automate building, testing, deploying, and monitoring processes for application
